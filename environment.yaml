@@ -1,0 +1,6 @@
+name: malscripts
+channels:
+  - conda-forge
+dependencies:
+  - python=3.*
+  - defusedxml=0.6.*
